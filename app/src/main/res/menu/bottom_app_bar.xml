@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/instagram_home_outline_24"
+        android:title="Home"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/createPost"
+        android:icon="@drawable/instagram_new_post_outline_24"
+        android:title="Create Post"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/instagram_user_outline_24"
+        android:title="Profile"
+        app:showAsAction="always"
+        />
+
+</menu>

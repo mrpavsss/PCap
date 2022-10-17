@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sideMargin">30dp</dimen>
+    <dimen name="betweenMargin">10dp</dimen>
+    <dimen name="stdTextSize">18sp</dimen>
+
+</resources>
